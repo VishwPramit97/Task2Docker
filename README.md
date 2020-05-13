@@ -1,6 +1,6 @@
 # Task2Docker
 
-# pipeline_implementation_in_jenkins_with_docker
+# Pipeline_implementation_in_jenkins_with_docker
 
 ## Task
 1.	Create container image that’s has Jenkins installed  using dockerfile 
